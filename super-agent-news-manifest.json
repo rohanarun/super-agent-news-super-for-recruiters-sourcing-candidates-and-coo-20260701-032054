@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0)",
+    "[Memeburn](https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4)",
+    "[ALM Corp](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVlMUHR5YkM3QkpZSWcxZ2Qyb1BiZ19rYVZudHVlQjFzQmxJZEkwb1I4NTZsUjBGRmoxdmZ5OVFlOV81MUw2bHVJa1U4bURpTVd6LXd6RlQ5QklhWkxxYlcwSm83UDU1Rkl0SkxudEg3Wm1WNmQ4OEtBT3lDMEFRQjc3Smc4UlpxMG44bWZiUmRXdw)",
+    "[Express Computer](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmt4WjNpUWFIMXBCVkpobE1RZklxUmp4UEdvLUpkU1NEWkRBYXBGYmJBWi1maEFZTnpYRlVqOWlLdHFucXpvX2sxcFRvalVHMkN6SDZ5ekJkSVlNVWtCREQwWlRCQXVjRHVOSGpONXVRSkVrVnFSUGxVT192UHZwSE9GLXdPRkpXTl93RG1fVFhGT1E3YXRmYno1ckdDZTJuR1pXdnA2empPN3RyWGpsbnNTcHRYMjh1)",
+    "[Dark Reading](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVo4WmxQT1J1ZjA4UnlTa2RIVVBWYUNpQ2dKbm5xa2NfZWdPSXZneU1RdjhmOTk5dGtOQm4tcjZkM285SThCWVVHbFZaZ3NSLUpfWFlHSFhuMkhOYlFEd3NiWGxHSmlOS0JjZFhRVmxzdWJnbm5BZDZlN3VZMUd4SUNkWDFWVFQwaGU5VWtmWQ)",
+    "[ecommercenews.com.au](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHF0X2kxXzZZY3B6NFljQ29VSlV2bmtydFoxb0ZMVnlvYUJ0dW5salRheVRLWlVIYmlWcGV4N3ZVNGNTbnJjMVRxejN0d3d6RFAtXzVFU29LVlJObmlnNFM5V3Q3Z01STzRoRkM1aVV1azI3dlhtVGJUVno2WVFvenNVVTdaREtsaFlFS0h3)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_lines=2.4; bento_density=grid-auto-flow:dense verified; competitors_labeled=pass; button_contrast=pass",
+  "generated_at": "2026-07-01T03:21:01.738139+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who source candidates and coordinate interviews. Uses current market evidence on agentic AI and computer\u2011use automation, positions Super as the sharper alternative for durable recruiting workflows with a reusable computer\u2011use cache, and reuses Super\u2019s successful comparison\u2011page visual architecture."
+}
